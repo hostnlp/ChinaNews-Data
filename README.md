@@ -13,17 +13,29 @@ It is a realworld dataset for cross-domain emotion distribution learning which i
 
 ## Samples
 > URL: XXXX
+
 > Title: XXXX
+
 > Category: XXXX
+
 > Time: XXXX年XX月XX日
+
 > News content: XXXXXX
   
 > Total: XX
+
 > 感动: X
+
 > 同情: X
+
 > 无聊: X
+
 > 愤怒: X
+
 > 搞笑: X
+
 > 难过: X
+
 > 高兴: X
+
 > 路过: X
