@@ -1,5 +1,5 @@
 # ChinaNews-Data
-It is a realworld dataset for cross-domain emotion distribution learning which is crawled from [ChinaNews website](http://www.chinanews.com). Each zip files is a collection of a specific domain news. 
+It is a real-world dataset for cross-domain emotion distribution learning which was crawled from [ChinaNews website](http://www.chinanews.com). Each zipped file is a collection of news documents from a specific domain.
 
 ## Emotion categories
 * 感动 "moved"
